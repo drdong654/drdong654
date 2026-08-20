@@ -74,11 +74,7 @@ Telegram bot for an educational platform with registration, user profiles and ba
 
 `Python` `aiogram` `FSM` `AsyncIO`
 
-### 📈 Nox
 
-Crypto market screener and trading assistant focused on market data, charts and AI-powered analysis.
-
-`Python` `Telegram` `API` `AI`
 
 ---
 
