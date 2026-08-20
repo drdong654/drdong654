@@ -60,7 +60,7 @@ I also experiment with **LLM, RAG systems and AI-powered applications**.
 
 ---
 
-## < Featured Projects />
+##  Featured Projects 
 
 ### 🤖 Vildly RAG Bot
 
@@ -82,7 +82,7 @@ Crypto market screener and trading assistant focused on market data, charts and 
 
 ---
 
-## < Currently />
+##  Currently 
 
 - 🔨 Building backend applications with **Python**
 - 🌱 Learning **FastAPI, PostgreSQL and backend architecture**
@@ -91,7 +91,7 @@ Crypto market screener and trading assistant focused on market data, charts and 
 
 ---
 
-## < GitHub Activity />
+##  GitHub Activity 
 
 <div align="center">
 
@@ -113,7 +113,7 @@ Crypto market screener and trading assistant focused on market data, charts and 
 
 <div align="center">
 
-### < Let's connect />
+###  Let's connect 
 
 <a href="https://github.com/drdong654">
   <img
